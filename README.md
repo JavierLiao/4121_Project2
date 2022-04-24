@@ -26,6 +26,7 @@ The performance gets better as the completion time shortens to *3mins 20 secs*.
 - Not kill
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/90008408/164948647-bbbed67e-785e-44cd-a0ea-944f3e023241.png">
 - Kill
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/90008408/164956333-b98a010a-0cf4-43d3-a372-f52006c94c3d.png">
 
 
 **Question 6.** (2 points) Only for this question, change the replication factor of enwiki_whole.xml to 1 and repeat Question 5 without killing one of the worker nodes. Include your screenshot of the dataproc job. Do you observe any difference in the completion time? Briefly explain.
