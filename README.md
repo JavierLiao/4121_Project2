@@ -1,6 +1,8 @@
 # README
 **Question 1**. (4 points) What is the default block size on HDFS? What is the default replication factor of HDFS on Dataproc?
+
 default blocksize: 128mb
+
 default replication factor: 
 
 
@@ -31,7 +33,11 @@ The performance gets better as the completion time shortens to *3mins 20 secs*.
 
 **Question 6.** (2 points) Only for this question, change the replication factor of enwiki_whole.xml to 1 and repeat Question 5 without killing one of the worker nodes. Include your screenshot of the dataproc job. Do you observe any difference in the completion time? Briefly explain.
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/90008408/164998815-59e1d680-22c5-4d0e-b041-a0dc2770ffe9.png">
+
 **Question 7.** (2 points) Only for this question, change the default block size in HDFS to be 64MB and repeat Question 5 without killing one of the worker nodes. Record run time, include your screenshot of the dataproc job. Is the performance getting better or worse in terms of completion time? Briefly explain.
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/90008408/165001966-1cbde413-d37f-4c92-8fd5-e48145013103.png">
 
 
 
