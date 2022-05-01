@@ -1,0 +1,10 @@
+Configuration for the program in Part1 Task2 to take “enwiki_small.xml” as input to generate the graph.
+
+cluster type: Single Node
+block size: 128mb(default)
+replication factor: 2(default)
+
+spark.executor.cores:4
+spark.driver.cores:4
+spark.executor.memory:5g
+spark.driver.memory:1g
